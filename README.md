@@ -19,17 +19,9 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## Program:
-#Program to circulate N values.
-#Developed by: D.Kavinraja
-#RegisterNumber:22007928
-def circulate():
-    b=a[n:]+a[:n]
-    print("After circulating the values are:",b)
-a=eval(input())
-n=int(input())
-    
+
 ## Output:
-file:///home/sec/Pictures/Screenshots/circulate.png![image](https://user-images.githubusercontent.com/119875375/208722125-b96a901f-fdf8-47d2-b263-24b5b198257b.png)
+
 
 ## Result:
 The output for circulate the values of n variables is successfull.
