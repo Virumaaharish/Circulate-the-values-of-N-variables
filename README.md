@@ -19,8 +19,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## Program:
+```
+def circulate():
+    b=a[n:]+a[:n]
+    print("After circulating the values are:",b)
+a=eval(input())
+n=int(input())
+```
 
 ## Output:
+![OUTPUT](./images/circulate1.png)
 
 
 ## Result:
