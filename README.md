@@ -1,4 +1,4 @@
-![Screenshot 2024-08-29 173802](https://github.com/user-attachments/assets/e3795f3e-ec03-450d-a8a3-366ff63bcc80)# DATE
+# DATE
 # Circulate-the-values-of-N-variables
 ## Aim:
 To write a python program to circulate the n variables using function concept
